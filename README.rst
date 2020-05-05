@@ -1,0 +1,1 @@
+This repository hosts my implementations of different reinforcement learning algorithm studied in Udemy's MOOC available here: www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python
